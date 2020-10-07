@@ -1,1 +1,1 @@
-# Course-project-2---Activity-monitoring-devices
+# Course-project-1-Activity-monitoring-devices
